@@ -23,6 +23,7 @@ int main()
             cout << "Y/y (продолжить)\n\n" << endl;
             cin >> var;
         }
+        // by GofMan3#4086
 
 
         
